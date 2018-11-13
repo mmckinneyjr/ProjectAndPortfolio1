@@ -1,0 +1,7 @@
+Z:\dvp1-mmckinneyjr\SDI\SDI\SDI\bin\Debug\SDI.exe.config
+Z:\dvp1-mmckinneyjr\SDI\SDI\SDI\bin\Debug\SDI.exe
+Z:\dvp1-mmckinneyjr\SDI\SDI\SDI\bin\Debug\SDI.pdb
+Z:\dvp1-mmckinneyjr\SDI\SDI\SDI\obj\Debug\SDI.csprojAssemblyReference.cache
+Z:\dvp1-mmckinneyjr\SDI\SDI\SDI\obj\Debug\SDI.csproj.CoreCompileInputs.cache
+Z:\dvp1-mmckinneyjr\SDI\SDI\SDI\obj\Debug\SDI.exe
+Z:\dvp1-mmckinneyjr\SDI\SDI\SDI\obj\Debug\SDI.pdb

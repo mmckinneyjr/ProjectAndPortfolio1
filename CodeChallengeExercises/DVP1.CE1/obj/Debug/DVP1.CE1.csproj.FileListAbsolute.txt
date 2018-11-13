@@ -1,0 +1,14 @@
+Z:\Mobile Development\06 Project and Portfolio I - Development\01 Week\Assignment 01\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.exe.config
+Z:\Mobile Development\06 Project and Portfolio I - Development\01 Week\Assignment 01\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.exe
+Z:\Mobile Development\06 Project and Portfolio I - Development\01 Week\Assignment 01\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.pdb
+Z:\Mobile Development\06 Project and Portfolio I - Development\01 Week\Assignment 01\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.csprojAssemblyReference.cache
+Z:\Mobile Development\06 Project and Portfolio I - Development\01 Week\Assignment 01\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.csproj.CoreCompileInputs.cache
+Z:\Mobile Development\06 Project and Portfolio I - Development\01 Week\Assignment 01\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.exe
+Z:\Mobile Development\06 Project and Portfolio I - Development\01 Week\Assignment 01\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.pdb
+Z:\dvp1-mmckinneyjr\DVP1Challenges\DVP1.CE1\bin\Debug\DVP1.CE1.exe.config
+Z:\dvp1-mmckinneyjr\DVP1Challenges\DVP1.CE1\bin\Debug\DVP1.CE1.exe
+Z:\dvp1-mmckinneyjr\DVP1Challenges\DVP1.CE1\bin\Debug\DVP1.CE1.pdb
+Z:\dvp1-mmckinneyjr\DVP1Challenges\DVP1.CE1\obj\Debug\DVP1.CE1.csprojAssemblyReference.cache
+Z:\dvp1-mmckinneyjr\DVP1Challenges\DVP1.CE1\obj\Debug\DVP1.CE1.csproj.CoreCompileInputs.cache
+Z:\dvp1-mmckinneyjr\DVP1Challenges\DVP1.CE1\obj\Debug\DVP1.CE1.exe
+Z:\dvp1-mmckinneyjr\DVP1Challenges\DVP1.CE1\obj\Debug\DVP1.CE1.pdb
